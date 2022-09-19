@@ -10,6 +10,11 @@ public class Test {
 	public void m() {
 		System.out.println("java is programing language");
 	}
+	
+	public void m1()
+	{
+		System.out.println("spring is opensource");
+	}
 
 	public static void main(String[] args) {
 
